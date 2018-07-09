@@ -1,5 +1,6 @@
 *.txt
 *.json
+*.log
 node_modules/
 reports/
 !package.json
